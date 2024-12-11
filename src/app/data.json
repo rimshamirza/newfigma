@@ -1,0 +1,101 @@
+[
+  {
+    "image": {
+      "thumbnail": "/Product1.png",
+      "mobile": "/Product1.png",
+      "tablet": "/Product1.png",
+      "desktop": "/Product1.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Wood Chair",
+    "price": 6.5
+  },
+  {
+    "image": {
+      "thumbnail": "/product2.png",
+      "mobile": "/product2.png",
+      "tablet": "/product2.png",
+      "desktop": "/product2.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Puffy Chair",
+    "price": 7.0
+  },
+  {
+    "image": {
+      "thumbnail": "/Product3.png",
+      "mobile": "/Product3.png",
+      "tablet": "/Product3.png",
+      "desktop": "/Product3.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Plastic Chair",
+    "price": 8.0
+  },
+  {
+    "image": {
+      "thumbnail": "/product4.png",
+      "mobile": "/product4.png",
+      "tablet": "/product4.png",
+      "desktop": "/product4.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Wood Stool",
+    "price": 5.5
+  },
+  {
+    "image": {
+      "thumbnail": "/Product5.png",
+      "mobile": "/Product5.png",
+      "tablet": "/Product5.png",
+      "desktop": "/Product5.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Elegant Chair",
+    "price": 4.0
+  },
+  {
+    "image": {
+      "thumbnail": "/Product6.png",
+      "mobile": "/Product6.png",
+      "tablet": "/Product6.png",
+      "desktop": "/Product6.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Black Elegant Chair",
+    "price": 5.0
+  },
+  {
+    "image": {
+      "thumbnail": "/Product7.png",
+      "mobile": "/Product7.png",
+      "tablet": "/Product7.png",
+      "desktop": "/Product7.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Chair",
+    "price": 4.5
+  },
+  {
+    "image": {
+      "thumbnail": "/Product8.png",
+      "mobile": "/Product8.png",
+      "tablet": "/Product8.png",
+      "desktop": "/Product8.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Gray Moveable",
+    "price": 4.5
+  },
+  {
+    "image": {
+      "thumbnail": "/Product9.png",
+      "mobile": "/Product9.png",
+      "tablet": "/Product9.png",
+      "desktop": "/Product9.png"
+    },
+    "name": "Library Stool Chair",
+    "category": "Pink puffy",
+    "price": 6.5
+  }
+]
