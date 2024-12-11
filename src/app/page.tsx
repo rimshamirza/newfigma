@@ -95,7 +95,7 @@ export default function Home() {
     {/* Product 1 */}
     <div className="flex flex-col items-center">
       <img
-        src="/product1.png"
+        src="/Product1.png"
         alt="Product 1"
         className="w-50 h-50 object-cover rounded-lg"
       />
@@ -136,7 +136,7 @@ export default function Home() {
     {/* Product 3 */}
     <div className="flex flex-col items-center">
       <img
-        src="/product3.png"
+        src="/Product3.png"
         alt="Product 3"
         className="w-50 h-50 object-cover rounded-lg"
       />
